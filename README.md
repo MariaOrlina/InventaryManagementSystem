@@ -1,6 +1,6 @@
 # Inventory Management System (Spring Boot) 
 
-Implementation of Backend API's for Common Inventory Management Use Case.
+Implementation of Inventory Management Use Case.
 
 ## Installation
 
